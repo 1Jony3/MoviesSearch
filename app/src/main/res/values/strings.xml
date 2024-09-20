@@ -1,0 +1,23 @@
+<resources>
+    <string name="appName">MoviesSearch</string>
+    <string name="titleActivityMain">MainActivity</string>
+
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="movies">Фильмы</string>
+    <string name="rating">Rating</string>
+    <string name="year">Year</string>
+    <string name="name">Name</string>
+    <string name="localName">Local name</string>
+    <string name="detailedDescription">Detailed description</string>
+    <string name="title">Title</string>
+    <string name="genres">Жанры</string>
+    <string name="loading">loading</string>
+    <string name="loadError">load error</string>
+    <string name="tryAgain">Повторить</string>
+    <string name="searchBy">search by</string>
+    <string name="error">Ошибка подключения сети</string>
+    <string name="movieName">Название фильма</string>
+    <string name="movieSearch">КиноПоиск</string>
+</resources>
